@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 1617686821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67f7f6451f7adcc143da7539c41e266d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/poker_image/card_D4.jpg
+- Assets/poker_image/card_CQ.jpg
+- Assets/poker_image/card_C10.jpg
+- Assets/poker_image/card_S5.jpg
+- Assets/poker_image/card_C8.jpg
+- Assets/poker_image/card_S4.jpg
+- Assets/poker_image/card_DK.jpg
+- Assets/poker_image/card_SJ.jpg
+- Assets/poker_image/card_H3.jpg
+- Assets/poker_image/card_SQ.jpg
+- Assets/poker_image/card_back.jpg
+- Assets/poker_image/card_H9.jpg
+- Assets/poker_image/card_H7.jpg
+- Assets/poker_image/card_HA.jpg
+- Assets/poker_image/card_H2.jpg
+- Assets/poker_image/card_H10.jpg
+- Assets/poker_image/card_C2.jpg
+- Assets/poker_image/card_H5.jpg
+- Assets/poker_image/card_DQ.jpg
+- Assets/poker_image/card_DA.jpg
+- Assets/poker_image/card_H6.jpg
+- Assets/poker_image/card_D6.jpg
+- Assets/poker_image/card_D7.jpg
+- Assets/poker_image/card_S7.jpg
+- Assets/poker_image/card_D10.jpg
+- Assets/poker_image/card_SA.jpg
+- Assets/poker_image/card_S8.jpg
+- Assets/poker_image/card_S3.jpg
+- Assets/poker_image/card_H8.jpg
+- Assets/poker_image/card_D9.jpg
+- Assets/poker_image/card_SK.jpg
+- Assets/poker_image/card_C4.jpg
+- Assets/poker_image/card_S9.jpg
+- Assets/poker_image/card_DJ.jpg
+- Assets/poker_image/card_S2.jpg
+- Assets/poker_image/card_H4.jpg
+- Assets/poker_image/card_HJ.jpg
+- Assets/poker_image/card_C3.jpg
+- Assets/poker_image/card_C6.jpg
+- Assets/poker_image/card_D2.jpg
+- Assets/poker_image/card_CK.jpg
+- Assets/poker_image/card_CJ.jpg
+- Assets/poker_image/card_CA.jpg
+- Assets/poker_image/card_D8.jpg
+- Assets/poker_image/card_C7.jpg
+- Assets/poker_image/card_D5.jpg
+- Assets/poker_image/card_S6.jpg
+- Assets/poker_image/card_D3.jpg
+- Assets/poker_image/card_C9.jpg
+- Assets/poker_image/card_HQ.jpg
+- Assets/poker_image/card_S10.jpg
+- Assets/poker_image/card_HK.jpg
+- Assets/poker_image/card_C5.jpg
+Dependencies: []
